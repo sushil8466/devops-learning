@@ -1,1 +1,3 @@
 Hello, friend...
+
+This repository contains my DevOps practice files and projects.
